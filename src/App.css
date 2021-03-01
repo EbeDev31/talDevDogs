@@ -1,0 +1,17 @@
+.app {
+  height: 100vh;
+  width: 80vw;
+  display: flex;
+  text-align: center;
+  font-size: 1.2em;
+  background-color: rgb(219, 198, 202);
+  padding: 10px;
+}
+.list {
+  max-width: 60%;
+  height: 60%;
+}
+.image {
+  width: 100%;
+  background-color: burlywood;
+}

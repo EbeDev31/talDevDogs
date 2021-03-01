@@ -1,0 +1,17 @@
+.breed-list {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: rgb(71, 95, 95);
+  overflow: auto;
+  padding: 20px;
+}
+.breed-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 150px;
+  margin: 10px;
+  background-color: turquoise;
+}
